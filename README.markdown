@@ -1,3 +1,6 @@
+LISTEN
+=
+This is a fork of QikBlogger. We wamt to revive it.
 About
 ====================
 
