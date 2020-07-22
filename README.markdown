@@ -1,6 +1,6 @@
 LISTEN
 =
-This is a fork of QikBlogger. We wamt to revive it.
+This is a fork of QikBlogger. We want to revive it.
 About
 ====================
 
